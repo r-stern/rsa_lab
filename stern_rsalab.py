@@ -192,3 +192,5 @@ def customkeytest(text, size):
     print("Original message:",text)
     print("Encrypted message:",ciphertext)
     print("Decrypted message:",plaintext)
+
+test()    
